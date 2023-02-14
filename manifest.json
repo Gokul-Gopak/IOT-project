@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name":"Censor Language",
+    "description": "Censor all bad language written on the webpage",
+    "version":"0.1.0",
+    "content_scripts":[
+        
+    ]
+}
